@@ -33,7 +33,7 @@ This project performs:
 ```
 .
 ├── app.py               # Main script (RAG pipeline)
-├── .env                 # API key for Gemini
+├── .env                 # Your API key 
 ├── document.txt         # The external knowledge base
 └── README.md            # Project description (this file)
 ```
